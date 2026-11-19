@@ -10,6 +10,7 @@ Le rapport comporte cinq pages interactives, avec des filtres sur le lieu du mat
 |---|---|
 | `Real_Madrid_Performance_2024_2025.pbix` | Rapport Power BI |
 | `Documentation_KPI.md` | Définition des indicateurs et méthodes de calcul |
+| `Real_Madrid_Dashboard.pdf` | Export PDF du dashboard
 | `images/` | Captures d'écran du dashboard |
 
 ## Pages du dashboard
