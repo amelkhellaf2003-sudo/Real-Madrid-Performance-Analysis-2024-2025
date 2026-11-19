@@ -1,4 +1,4 @@
-# Real Madrid — Performance Analysis 2024/2025
+# Real Madrid - Performance Analysis 2024/2025
 ## Documentation des KPI, des calculs et des observations
 
 Source : Football-Data.co.uk (LaLiga 2024/2025), 38 matchs du Real Madrid (19 à domicile, 19 à l'extérieur).
