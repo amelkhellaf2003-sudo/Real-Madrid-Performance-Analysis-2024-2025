@@ -104,4 +104,4 @@ Projet personnel réalisé pour mon portfolio, sans affiliation ni partenariat a
 
 ## Source des données
 
-[Football-Data.co.uk](https://www.football-data.co.uk/) — championnat espagnol, saison 2024/2025.
+[Football-Data.co.uk](https://www.football-data.co.uk/). championnat espagnol, saison 2024/2025.
