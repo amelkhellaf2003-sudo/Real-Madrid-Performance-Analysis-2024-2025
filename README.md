@@ -25,7 +25,7 @@ Synthèse de la saison : nombre de matchs, victoires, buts marqués et encaissé
 
 Analyse de la production offensive : buts marqués, tirs, tirs cadrés et taux de conversion. Comparaison des performances à domicile et à l'extérieur.
 
-![Analyse offensive](images/analysedéfensive.png)
+![Analyse offensive](images/analyseoffensive.png)
 
 ### 3. Analyse défensive
 
@@ -37,13 +37,13 @@ Analyse des buts encaissés, des matchs sans encaisser, des tirs et tirs cadrés
 
 Tableau des 38 matchs de Liga avec les dates, les équipes, les scores et les résultats. Les filtres permettent d'explorer les rencontres selon différents critères.
 
-![Détail des matchs](images/analysedéfensive.png)
+![Détail des matchs](images/détaildesmatchs.png)
 
 ### 5. Classement LaLiga
 
 Comparaison du Real Madrid avec les autres équipes du championnat : classement, points, buts, tirs et taux de conversion. La page inclut également un benchmark par rapport aux moyennes de LaLiga.
 
-![Classement LaLiga](images/analysedéfensive.png)
+![Classement LaLiga](images/classementLaliga.png)
 
 ## Résultats clés
 
