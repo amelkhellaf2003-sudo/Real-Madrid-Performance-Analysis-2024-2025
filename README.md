@@ -19,7 +19,7 @@ Le rapport comporte cinq pages interactives, avec des filtres sur le lieu du mat
 
 Synthèse de la saison : nombre de matchs, victoires, buts marqués et encaissés, évolution des résultats et performances à domicile et à l'extérieur.
 
-![Vue d'ensemble](images/overview.jpg)
+![Vue d'ensemble](images/vued'ensemble.jpg)
 
 ### 2. Analyse offensive
 
